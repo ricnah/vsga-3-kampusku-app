@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KampusKu</string>
+    <string name="info_desc">Aplikasi Kampusku merupakan aplikasi yang digunakan untuk pendataan mahasiswa. User nantinya bisa menambahkan, melihat, update, dan hapus data mahasiswa.</string>
+</resources>
